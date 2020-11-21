@@ -126,7 +126,7 @@ footer{
   height: 200px;
   border: 2px solid;
   margin: auto;
-  margin-top: 1025px;
+  margin-top: 500px;
 }
 
 /* instagram */
@@ -262,5 +262,20 @@ h3{
   margin-top: 135px;
 }
 svg{
-  width:75%
+  width:75%;
 }
+button {
+  border: none;
+  color: white;
+  padding: 30px 64px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  margin-left: 300px;
+  margin-top: 350px;
+  border-radius: 25px;
+}
+
